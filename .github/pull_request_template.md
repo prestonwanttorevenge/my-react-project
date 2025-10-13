@@ -18,12 +18,6 @@ Closes #[issue_number]:
 - [ ] 🏗️ Build system or external dependency changes
 - [ ] 🧹 Chore (updating grunt tasks etc; no production code change)
 
-## 🧪 Testing
-
-- [ ] Unit tests added/updated
-- [ ] Integration tests added/updated
-- [ ] Manual testing completed
-
 ## 📋 Checklist
 
 - [ ] Code follows the style guidelines of this project
@@ -44,36 +38,3 @@ Closes #[issue_number]:
 ### After
 
 -
-
-## 🔍 Implementation Details
-
-### Changes Made
-
--
--
--
-
-### Technical Details
-
--
--
--
-
-## 🚨 Breaking Changes
-
--
--
--
-
-## 📚 Documentation
-
-- [ ] README.md
-- [ ] API documentation
-- [ ] Component documentation
-- [ ] Other documentation
-
-## 🔄 Dependencies
-
-- Added:
-- Removed:
-- Updated:
