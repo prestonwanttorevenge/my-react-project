@@ -1,4 +1,8 @@
-# React Boilerplate The Best 2025 🚀
+<div align="center">
+    <img src="https://dut.gdsc.dev/static/media/full_logo.0703a97c176aa84cbc51.jpg" alt="tailwindcss" borderRadius="10px" />
+  </div>
+
+<h1 align="center">React Boilerplate 🚀</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
